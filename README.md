@@ -47,7 +47,7 @@ We encourage you to explore, make suggestions, and contribute to our code. This 
 - [Crime data API](https://github.com/18F/crime-data-api): code for the RESTful API behind the Crime Data Explorer
 - [Crime data style](https://github.com/18F/crime-data-style): visual style guide and user interface component library
 - [Uniform Crime Reporting (UCR) documentation](https://ucr.fbi.gov/user-manuals): user manuals developed by the FBI
-- [API documentation](https://crime-data-api.fr.cloud.gov/swagger/): technical documentation for the crime data API
+- [API documentation](https://crime-data-explorer.fr.cloud.gov/api): technical documentation for the crime data API
  
 ## Get involved
 [![Follow along with the progress on our Waffle.io board](https://badge.waffle.io/18F/crime-data-explorer.svg?label=ready&title=Ready)](http://waffle.io/18F/crime-data-explorer)
